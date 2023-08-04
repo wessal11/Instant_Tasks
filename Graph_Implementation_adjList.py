@@ -1,4 +1,4 @@
-# we will creat directed and weighted graph
+# we will creat a directed and weighted graph
 # using an adjacency list
 
 def add_vertix(node):
